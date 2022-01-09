@@ -23,6 +23,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FilesInRoot", "FilesInRoot", "{221867AF-C48E-4D66-AC42-D0BE5259477C}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		index - Copy.html = index - Copy.html
 		index.html = index.html
 		README.md = README.md
 		Web.config = Web.config
