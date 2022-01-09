@@ -25,6 +25,7 @@
   <ItemGroup>
     <Compile Include="Add3-master.py" />
     <Compile Include="Add3-v101-concat.py" />
+    <Compile Include="Add3-v102-adds.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

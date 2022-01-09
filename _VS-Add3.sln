@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pas", "Pas", "{0B7602C8-527
 	ProjectSection(SolutionItems) = preProject
 		Pas\Add3-master.pas = Pas\Add3-master.pas
 		Pas\Add3-v101-concat.pas = Pas\Add3-v101-concat.pas
+		Pas\Add3-v102-adds.pas = Pas\Add3-v102-adds.pas
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VBA", "VBA", "{63D5B296-5299-4FB7-8AFC-16A7E7A28BEC}"
@@ -34,6 +35,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{DC39BFD1-EABE-
 	ProjectSection(SolutionItems) = preProject
 		JS\Add3-master.html = JS\Add3-master.html
 		JS\Add3-v101-concat.html = JS\Add3-v101-concat.html
+		JS\Add3-V102-adds.html = JS\Add3-V102-adds.html
 	EndProjectSection
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-Add3-v101concat", "VB-v101-Concat\VB-Add3-v101concat.vbproj", "{8E265133-BCD0-4236-8C50-1894A3E0B3CC}"
@@ -46,6 +48,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{777003
 		images\ssc_smalllogo-60x81.ico = images\ssc_smalllogo-60x81.ico
 		images\SSC_SmallLogo-60x81.png = images\SSC_SmallLogo-60x81.png
 	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-Add3-v102-adds", "VB-v102-adds\VB-Add3-v102-adds.vbproj", "{5EBEC63E-7679-4D93-B103-E257907C55E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,10 @@ Global
 		{8E265133-BCD0-4236-8C50-1894A3E0B3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E265133-BCD0-4236-8C50-1894A3E0B3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E265133-BCD0-4236-8C50-1894A3E0B3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBEC63E-7679-4D93-B103-E257907C55E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBEC63E-7679-4D93-B103-E257907C55E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBEC63E-7679-4D93-B103-E257907C55E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBEC63E-7679-4D93-B103-E257907C55E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
