@@ -36,7 +36,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{DC39BFD1-EABE-
 	ProjectSection(SolutionItems) = preProject
 		JS\Add3-master.html = JS\Add3-master.html
 		JS\Add3-v101-concat.html = JS\Add3-v101-concat.html
-		JS\Add3-V102-adds.html = JS\Add3-V102-adds.html
+		JS\Add3-v102-adds.html = JS\Add3-v102-adds.html
 	EndProjectSection
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-Add3-v101concat", "VB-v101-Concat\VB-Add3-v101concat.vbproj", "{8E265133-BCD0-4236-8C50-1894A3E0B3CC}"
